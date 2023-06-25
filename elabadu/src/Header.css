@@ -1,0 +1,93 @@
+.header {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    background-color: #041937;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .header__logo {
+    width: 100px;
+    object-fit: contain;
+    margin: 0 20px;
+    margin-top: 18px;
+  }
+  
+  .header__search {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    border-radius: 24px;
+  }
+  
+  .header__searchInput {
+    height: 15px;
+    padding: 15px;
+    border: none;
+    width: 95%;
+  }
+  
+  .header__searchIcon {
+    padding: 5px;
+    height: 30px !important;
+    width: 30px !important;
+    background-color: #9d95f1;
+  }
+  .navbar__searchbox{
+    width: 790px;
+    height: 30px;
+    margin-top: 2px;
+}
+.navbar__seaarchboxdiv {
+  background-color: #9c59f4;
+  height: 36px;
+  width: 58px;
+  border-radius: 0px 5px 5px 0px;
+  margin-top: 2px;
+}
+.navbar__searchicon {
+  background: url(https://ik.imagekit.io/luckbadu/sprite_350x.png?updatedAt=1679367913832) no-repeat -9px -289px;
+  width: 30px;
+  height: 20px;
+  margin: 10px;
+}
+  .header__optionLineOne {
+    font-size: 10px;
+  }
+  
+  .header__optionLineTwo {
+    font-size: 13px;
+    font-weight: 800;
+  }
+  
+  .header__optionBasket {
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+  
+  .header__basketCount {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  .header__nav {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .header__option {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+  }
+  .home__row {  
+    display: flex; 
+    z-index: 1; 
+    margin-left: 5px;  
+    margin-right: 5px;
+  }

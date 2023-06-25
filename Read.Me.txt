@@ -1,0 +1,30 @@
+api display wena product hard code krala tiyenne. 
+
+e product cart ekat ynwa. ethanin ehata proceed to checkout eken ynwa payment karana thenata yanwa ethna use karala thiyenne stripe.
+eka ain karala 3 weni back end ekata a gatta order eka yanna ona.order backend eka hadala ne ekata user id ekai eya ganna baduwala details 
+a backend eken db ekata save wenna ona.
+
+payment antimata ena payment button eka click krarahama succesfull kiyla watila.navigation bar eke thiyena  return and  orders
+ekata ewa watenna ona.
+
+admin btn eka click karama admin login form eka enna ona,ekatanm database call karanna ona ne username ekai password ekai hard code karala 
+dunnama athi
+
+admin login unama oya dn admin eka click karama ena user management application eka enna ona.
+ekatama a kalupata nav bar eke product management application ekath thiyenna ona.
+eka click karama product manage karana form eka enna ona.
+me dekama backend call karanna ona. port anka dala ne.. 8081,8082,8083 danna backend 3ta... 
+
+web eka responsive wenna ona. search bar eka nisa eka wenne ne.
+
+search bar eke search karata search wenne ne , eka onamath ne
+
+customer login form eka  eka hadala ne.(meka user back end call karala ne). user db eke inna ekkenek log unama home page ekata enna ona 
+login form eka firebase connect wela thiyenne eka ain arala user db eken data aran home ekata log wenna ona.  
+log unama hello guest eka ain wela etana email eka watenna ona.   firebase login unama nm ehema weno. fire base ain krannat onane.
+
+register eka hadala thiyei.
+
+
+
+

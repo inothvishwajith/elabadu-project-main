@@ -1,0 +1,11 @@
+ arake badu hard code karalane thiyenne ewath order karama yana widihata hadala denna ona . 
+Ekata aluth back end ekk hadanna ona order kiyla . Ekata user id ekai order karapu eke id tikai  product wala details tikai payment ekai giyama athi. a back end ekata
+
+
+
+Itapasse home eke nav eke my orders wala list eke a tika pennanna ona orders tika
+
+
+awasaneta gate way api ekak danna ona front end ekata  back end 3 call wenna...
+
+Order kiyana back end eken produc ms eka call karala eke product db eke user order කරපු   a  a product eke details tika enna thamai ona kiyla

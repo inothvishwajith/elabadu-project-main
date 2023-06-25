@@ -1,0 +1,10 @@
+api register eka galewwa firebase eken. eka dn yno ape database ekata. login eka nm galawnnna une na. 
+danata log wenna puluwan wenne firebase eke tiyna record walata anuwa ex(cheni@gmail.com   Pw:123456) 
+eken wena wens kam blagnna puluwan login form eke oka dunnot. firebase natuwa eka ape database eka record walata anuwa login wenna hadanna ona.
+
+
+
+
+
+payment ekat ynne stipe ekata ekanm kohomat antimata button eka ebuwata wada kre na. stripe ekata giye na. kohomat eka data base ekata ywagnna ona.
+stripe ain kragnna ona.
